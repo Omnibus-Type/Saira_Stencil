@@ -3,7 +3,7 @@
 .formatVersion = 3;
 DisplayStrings = (
 "ª9/nine.lf/nine.osf/nine.ss01/nine.tf/nine.tosf/nine.dnom/nine.numr ₉⁹",
-"№"
+"−№"
 );
 axes = (
 {
@@ -278624,9 +278624,9 @@ ref = degree;
 },
 {
 alignment = -1;
-pos = (542,0);
+pos = (322,0);
 ref = minus;
-scale = (-0.5,1);
+scale = (0.5,1);
 }
 );
 width = 553;
