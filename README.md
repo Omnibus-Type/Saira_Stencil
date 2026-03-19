@@ -2,8 +2,7 @@
 
 **Gatti & Omnibus-Type Team**
 *SIL Open Font License 1.1,*
-*72 fonts, 885 glyphs each variant (Press Series).*
-*Tipos Latinos 2014*
+*126 fonts, 885 glyphs each variant (Press Series).*
 
 Saira Stencil is the cut variant of the Saira typeface family. It retains the core structure of its predecessor but is defined by the strategic addition of precise cuts—some logically placed, others deliberately offbeat. This intervention creates a typeface that is both sharp and visually striking, making it an optimal choice for titles, branding, and logotypes where a bold, memorable impression is required. It was designed by Héctor Gatti and developed by the Omnibus-Type Team.
 
