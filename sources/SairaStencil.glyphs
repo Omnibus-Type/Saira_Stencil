@@ -1649,19 +1649,6 @@ size = 0;
 );
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 36;
-},
-{
-Axis = Width;
-Location = 50;
-}
-);
-},
-{
 name = typoAscender;
 value = 1135;
 },
@@ -1802,19 +1789,6 @@ size = -16;
 name = "zone 5";
 pos = 0;
 size = 0;
-}
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 128;
-},
-{
-Axis = Width;
-Location = 50;
 }
 );
 },
@@ -1961,19 +1935,6 @@ size = 0;
 );
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 234;
-},
-{
-Axis = Width;
-Location = 50;
-}
-);
-},
-{
 name = typoAscender;
 value = 1135;
 },
@@ -2112,19 +2073,6 @@ size = -16;
 name = "zone 5";
 pos = 0;
 size = 0;
-}
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 36;
-},
-{
-Axis = Width;
-Location = 75;
 }
 );
 },
@@ -2282,19 +2230,6 @@ size = -16;
 name = "zone 5";
 pos = 0;
 size = 0;
-}
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 128;
-},
-{
-Axis = Width;
-Location = 75;
 }
 );
 },
@@ -2461,19 +2396,6 @@ size = -16;
 name = "zone 5";
 pos = 0;
 size = 0;
-}
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 234;
-},
-{
-Axis = Width;
-Location = 75;
 }
 );
 },
@@ -2645,19 +2567,6 @@ size = 0;
 );
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 36;
-},
-{
-Axis = Width;
-Location = 100;
-}
-);
-},
-{
 name = typoAscender;
 value = 1135;
 },
@@ -2804,19 +2713,6 @@ size = -16;
 name = "zone 5";
 pos = 0;
 size = 0;
-}
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 128;
-},
-{
-Axis = Width;
-Location = 100;
 }
 );
 },
@@ -2972,19 +2868,6 @@ size = 0;
 );
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 234;
-},
-{
-Axis = Width;
-Location = 100;
-}
-);
-},
-{
 name = typoAscender;
 value = 1135;
 },
@@ -3135,19 +3018,6 @@ size = 0;
 );
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 36;
-},
-{
-Axis = Width;
-Location = 125;
-}
-);
-},
-{
 name = typoAscender;
 value = 1135;
 },
@@ -3287,19 +3157,6 @@ size = -16;
 name = "zone 5";
 pos = 0;
 size = 0;
-}
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 128;
-},
-{
-Axis = Width;
-Location = 125;
 }
 );
 },
@@ -3447,19 +3304,6 @@ size = -16;
 name = "zone 5";
 pos = 0;
 size = 0;
-}
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 234;
-},
-{
-Axis = Width;
-Location = 125;
 }
 );
 },
@@ -381169,19 +381013,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --ttfa-table --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 36;
-},
-{
-Axis = Width;
-Location = 100;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -381227,19 +381058,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --ttfa-table --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 48;
-},
-{
-Axis = Width;
-Location = 100;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -381286,19 +381104,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --ttfa-table --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 64;
-},
-{
-Axis = Width;
-Location = 100;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -381345,19 +381150,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --ttfa-table --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 86;
-},
-{
-Axis = Width;
-Location = 100;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -381403,19 +381195,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --ttfa-table --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 113;
-},
-{
-Axis = Width;
-Location = 100;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -381462,19 +381241,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --ttfa-table --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 142;
-},
-{
-Axis = Width;
-Location = 100;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -381521,19 +381287,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --ttfa-table --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 174;
-},
-{
-Axis = Width;
-Location = 100;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -381581,19 +381334,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --ttfa-table --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 206;
-},
-{
-Axis = Width;
-Location = 100;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -381640,19 +381380,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --ttfa-table --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 234;
-},
-{
-Axis = Width;
-Location = 100;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -384226,13 +383953,13 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
 }
 );
 },
 {
 key = licenseURL;
-value = "https://scripts.sil.org/OFL";
+value = "https://openfontlicense.org";
 },
 {
 key = manufacturers;
