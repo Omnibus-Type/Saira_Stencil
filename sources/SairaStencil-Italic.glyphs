@@ -249987,6 +249987,126 @@ metricLeft = H;
 metricRight = H;
 },
 {
+glyphname = lineseparator;
+layers = (
+{
+layerId = UUID0;
+width = 600;
+},
+{
+layerId = "B988E418-9469-42FB-AD32-095B8D65BEE5";
+width = 600;
+},
+{
+layerId = "2A096AB6-16C2-4C34-8164-FCBBBF8CEAEB";
+width = 600;
+},
+{
+layerId = "CD898CA3-FB76-4965-A23E-9AA06D1CE2B1";
+width = 600;
+},
+{
+layerId = "20A7088A-67D7-4614-84CF-19C576DDC019";
+width = 600;
+},
+{
+layerId = "B4DE345C-CFDB-4A54-B125-3358BD91D59F";
+width = 600;
+},
+{
+layerId = "527899E9-AC81-44FE-89AA-146AC27955A1";
+width = 600;
+},
+{
+layerId = "8494D26F-946F-4BDA-8E04-2FD894ABFEA2";
+width = 600;
+},
+{
+layerId = "8AB9AFA2-7010-440B-BFFC-1C7CDFA1A370";
+width = 600;
+},
+{
+associatedMasterId = UUID0;
+layerId = "E7639064-56EC-4BF1-BEDD-A20273C7A444";
+name = "Expanded Thin";
+width = 600;
+},
+{
+associatedMasterId = UUID0;
+layerId = "C6199351-AF36-494D-BF00-13EB6406F65F";
+name = "Expanded Medium";
+width = 600;
+},
+{
+associatedMasterId = UUID0;
+layerId = "8EBCA172-37CB-4E59-A5FF-33FE92477777";
+name = "Expanded Black";
+width = 600;
+}
+);
+unicode = 8232;
+},
+{
+glyphname = paragraphseparator;
+layers = (
+{
+layerId = UUID0;
+width = 600;
+},
+{
+layerId = "B988E418-9469-42FB-AD32-095B8D65BEE5";
+width = 600;
+},
+{
+layerId = "2A096AB6-16C2-4C34-8164-FCBBBF8CEAEB";
+width = 600;
+},
+{
+layerId = "CD898CA3-FB76-4965-A23E-9AA06D1CE2B1";
+width = 600;
+},
+{
+layerId = "20A7088A-67D7-4614-84CF-19C576DDC019";
+width = 600;
+},
+{
+layerId = "B4DE345C-CFDB-4A54-B125-3358BD91D59F";
+width = 600;
+},
+{
+layerId = "527899E9-AC81-44FE-89AA-146AC27955A1";
+width = 600;
+},
+{
+layerId = "8494D26F-946F-4BDA-8E04-2FD894ABFEA2";
+width = 600;
+},
+{
+layerId = "8AB9AFA2-7010-440B-BFFC-1C7CDFA1A370";
+width = 600;
+},
+{
+associatedMasterId = UUID0;
+layerId = "E7639064-56EC-4BF1-BEDD-A20273C7A444";
+name = "Expanded Thin";
+width = 600;
+},
+{
+associatedMasterId = UUID0;
+layerId = "C6199351-AF36-494D-BF00-13EB6406F65F";
+name = "Expanded Medium";
+width = 600;
+},
+{
+associatedMasterId = UUID0;
+layerId = "8EBCA172-37CB-4E59-A5FF-33FE92477777";
+name = "Expanded Black";
+width = 600;
+}
+);
+unicode = 8233;
+},
+{
 glyphname = "leftanglebracket-math";
 layers = (
 {
