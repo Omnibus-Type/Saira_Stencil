@@ -1507,6 +1507,12 @@ sub rightArrow by rightArrow.ss01;
 sub downArrow by downArrow.ss01;
 sub leftArrow by leftArrow.ss01;
 ";
+labels = (
+{
+language = dflt;
+value = ss01;
+}
+);
 tag = ss01;
 },
 {
@@ -1520,6 +1526,12 @@ sub bracketleft by bracketleft.ss02;
 sub bracketright by bracketright.ss02;
 sub bar by bar.ss02;
 ";
+labels = (
+{
+language = dflt;
+value = ss02;
+}
+);
 tag = ss02;
 },
 {
