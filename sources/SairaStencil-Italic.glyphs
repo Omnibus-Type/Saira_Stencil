@@ -1000,15 +1000,15 @@ wdth = {
 125 = 125;
 };
 wght = {
-36 = 36;
-48 = 48;
-64 = 64;
-86 = 86;
-113 = 113;
-142 = 142;
-174 = 174;
-206 = 206;
-234 = 234;
+100 = 36;
+200 = 48;
+300 = 64;
+400 = 86;
+500 = 113;
+600 = 142;
+700 = 174;
+800 = 206;
+900 = 234;
 };
 };
 }
@@ -400807,19 +400807,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --ttfa-table --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 36;
-},
-{
-Axis = Width;
-Location = 100;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -400867,19 +400854,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --ttfa-table --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 48;
-},
-{
-Axis = Width;
-Location = 100;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -400928,19 +400902,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --ttfa-table --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 64;
-},
-{
-Axis = Width;
-Location = 100;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -400989,19 +400950,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --ttfa-table --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 86;
-},
-{
-Axis = Width;
-Location = 100;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -401048,19 +400996,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --ttfa-table --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 113;
-},
-{
-Axis = Width;
-Location = 100;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -401109,19 +401044,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --ttfa-table --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 142;
-},
-{
-Axis = Width;
-Location = 100;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -401170,19 +401092,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --ttfa-table --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 174;
-},
-{
-Axis = Width;
-Location = 100;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -401231,19 +401140,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --ttfa-table --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 206;
-},
-{
-Axis = Width;
-Location = 100;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -401292,19 +401188,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --ttfa-table --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 234;
-},
-{
-Axis = Width;
-Location = 100;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -401313,34 +401196,6 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = Black;
 name = "Black Italic";
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Saira Stencil";
-}
-);
-},
-{
-key = postscriptFontName;
-value = "SairaStencil-BlackItalic";
-},
-{
-key = postscriptFullName;
-value = SairaStencilBlackItalic;
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Saira Stencil Black Italic";
-}
-);
-}
-);
 weightClass = 900;
 }
 );

@@ -999,15 +999,15 @@ wdth = {
 125 = 125;
 };
 wght = {
-36 = 36;
-48 = 48;
-64 = 64;
-86 = 86;
-113 = 113;
-142 = 142;
-174 = 174;
-206 = 206;
-234 = 234;
+100 = 36;
+200 = 48;
+300 = 64;
+400 = 86;
+500 = 113;
+600 = 142;
+700 = 174;
+800 = 206;
+900 = 234;
 };
 };
 }
@@ -381019,34 +381019,6 @@ instanceInterpolations = {
 UUID0 = 1;
 };
 name = Thin;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Saira Stencil";
-}
-);
-},
-{
-key = postscriptFontName;
-value = "SairaStencil-Thin";
-},
-{
-key = postscriptFullName;
-value = SairaStencilThin;
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Saira Stencil Thin";
-}
-);
-}
-);
 weightClass = 100;
 },
 {
@@ -381065,34 +381037,6 @@ instanceInterpolations = {
 UUID0 = 0.86957;
 };
 name = ExtraLight;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Saira Stencil";
-}
-);
-},
-{
-key = postscriptFontName;
-value = "SairaStencil-ExtraLight";
-},
-{
-key = postscriptFullName;
-value = SairaStencilExtraLight;
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Saira Stencil ExtraLight";
-}
-);
-}
-);
 weightClass = 200;
 },
 {
@@ -381111,34 +381055,6 @@ instanceInterpolations = {
 UUID0 = 0.69565;
 };
 name = Light;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Saira Stencil";
-}
-);
-},
-{
-key = postscriptFontName;
-value = "SairaStencil-Light";
-},
-{
-key = postscriptFullName;
-value = SairaStencilLight;
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Saira Stencil Light";
-}
-);
-}
-);
 weightClass = 300;
 },
 {
@@ -381157,34 +381073,6 @@ instanceInterpolations = {
 UUID0 = 0.45652;
 };
 name = Regular;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Saira Stencil";
-}
-);
-},
-{
-key = postscriptFontName;
-value = "SairaStencil-Regular";
-},
-{
-key = postscriptFullName;
-value = SairaStencilRegular;
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Saira Stencil Regular";
-}
-);
-}
-);
 },
 {
 axesValues = (
@@ -381202,34 +381090,6 @@ instanceInterpolations = {
 UUID0 = 0.16304;
 };
 name = Medium;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Saira Stencil";
-}
-);
-},
-{
-key = postscriptFontName;
-value = "SairaStencil-Medium";
-},
-{
-key = postscriptFullName;
-value = SairaStencilMedium;
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Saira Stencil Medium";
-}
-);
-}
-);
 weightClass = 500;
 },
 {
@@ -381248,34 +381108,6 @@ instanceInterpolations = {
 "E7A95A6A-7487-49EE-B62A-BA87B06E4B57" = 0.86792;
 };
 name = SemiBold;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Saira Stencil";
-}
-);
-},
-{
-key = postscriptFontName;
-value = "SairaStencil-SemiBold";
-},
-{
-key = postscriptFullName;
-value = SairaStencilSemiBold;
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Saira Stencil SemiBold";
-}
-);
-}
-);
 weightClass = 600;
 },
 {
@@ -381295,34 +381127,6 @@ instanceInterpolations = {
 };
 isBold = 1;
 name = Bold;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Saira Stencil";
-}
-);
-},
-{
-key = postscriptFontName;
-value = "SairaStencil-Bold";
-},
-{
-key = postscriptFullName;
-value = SairaStencilBold;
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Saira Stencil Bold";
-}
-);
-}
-);
 weightClass = 700;
 },
 {
@@ -381341,34 +381145,6 @@ instanceInterpolations = {
 "E7A95A6A-7487-49EE-B62A-BA87B06E4B57" = 0.26415;
 };
 name = ExtraBold;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Saira Stencil";
-}
-);
-},
-{
-key = postscriptFontName;
-value = "SairaStencil-ExtraBold";
-},
-{
-key = postscriptFullName;
-value = SairaStencilExtraBold;
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Saira Stencil ExtraBold";
-}
-);
-}
-);
 weightClass = 800;
 },
 {
@@ -381386,34 +381162,6 @@ instanceInterpolations = {
 "4F93A97B-747D-4721-B098-38A63C534D7A" = 1;
 };
 name = Black;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Saira Stencil";
-}
-);
-},
-{
-key = postscriptFontName;
-value = "SairaStencil-Black";
-},
-{
-key = postscriptFullName;
-value = SairaStencilBlack;
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Saira Stencil Black";
-}
-);
-}
-);
 weightClass = 900;
 }
 );
