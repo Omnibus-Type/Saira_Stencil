@@ -1,16 +1,20 @@
 sources:
-  - Asap.glyphs
-  - Asap-Italic.glyphs
+  - SairaStencil.glyphs
+  - SairaStencil-Italic.glyphs
 axisOrder:
   - wdth
   - wght
-familyName: Asap
+familyName: Saira Stencil
 cleanUp: true
 stat:
-  Asap[wdth,wght].ttf:
+  SairaStencil[wdth,wght].ttf:
   - name: Width
     tag: wdth
     values:
+    - name: UltraCondensed
+      value: 50
+    - name: ExtraCondensed
+      value: 62.5
     - name: Condensed
       value: 75
     - name: SemiCondensed
@@ -52,10 +56,14 @@ stat:
       value: 0
       linkedValue: 1
       flags: 2
-  Asap-Italic[wdth,wght].ttf:
+  SairaStencil-Italic[wdth,wght].ttf:
   - name: Width
     tag: wdth
     values:
+    - name: UltraCondensed
+      value: 50
+    - name: ExtraCondensed
+      value: 62.5
     - name: Condensed
       value: 75
     - name: SemiCondensed
