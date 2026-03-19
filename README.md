@@ -9,8 +9,8 @@ Saira Stencil is the cut variant of the Saira typeface family. It retains the co
 
 Saira is a contemporary sans serif system, a versatile family of 126 styles (9 different weight variants, in 7 widths, plus matching italics.) It is part of the Press Series, for it is applicable in newspapers, magazines, books and websites. Showing high adaptability, it can be used in headlines and long texts. The original masters were designed by Héctor Gatti. The character sets were later completed by the Omnibus-Type Team.
 
-![Sample of Saira Stencil Family.](Saira_Stencil-01.png "Saira")
-![Sample of Saira Stencil Family.](Saira_Stencil-02.png "Saira")
+![Sample of Saira Stencil Family.](documentation/Saira_Stencil-01.png "Saira")
+![Sample of Saira Stencil Family.](documentation/Saira_Stencil-02.png "Saira")
 
 #### Saira Stencil Family contains:
 
