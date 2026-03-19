@@ -1,6 +1,10 @@
 {
 .appVersion = "3516";
 .formatVersion = 3;
+DisplayStrings = (
+"ª9/nine.lf/nine.osf/nine.ss01/nine.tf/nine.tosf/nine.dnom/nine.numr ₉⁹",
+"№"
+);
 axes = (
 {
 name = Weight;

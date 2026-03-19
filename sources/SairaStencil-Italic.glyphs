@@ -189103,7 +189103,7 @@ layers = (
 anchors = (
 {
 name = caret_1;
-pos = (199,0);
+pos = (311,0);
 }
 );
 background = {
@@ -189191,7 +189191,7 @@ width = 622;
 anchors = (
 {
 name = caret_1;
-pos = (199,0);
+pos = (429.5,0);
 }
 );
 background = {
@@ -189279,7 +189279,7 @@ width = 859;
 anchors = (
 {
 name = caret_1;
-pos = (199,0);
+pos = (370.5,0);
 }
 );
 background = {
@@ -189367,7 +189367,7 @@ width = 741;
 anchors = (
 {
 name = caret_1;
-pos = (199,0);
+pos = (172,0);
 }
 );
 background = {
@@ -189555,7 +189555,7 @@ width = 398;
 anchors = (
 {
 name = caret_1;
-pos = (199,0);
+pos = (220.5,0);
 }
 );
 background = {
@@ -189643,7 +189643,7 @@ width = 441;
 anchors = (
 {
 name = caret_1;
-pos = (199,0);
+pos = (356,0);
 }
 );
 background = {
@@ -189735,7 +189735,7 @@ width = 712;
 anchors = (
 {
 name = caret_1;
-pos = (199,0);
+pos = (402.5,0);
 }
 );
 background = {
@@ -189827,7 +189827,7 @@ width = 805;
 anchors = (
 {
 name = caret_1;
-pos = (199,0);
+pos = (494.5,0);
 }
 );
 background = {
