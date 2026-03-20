@@ -118,7 +118,7 @@ This information should be distributed along with the Saira fonts and any deriva
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
-**2026 March 13 (v2.000) Configuring axes (Omnibus-Type)**
+**2026 March 13 (v1.101) Configuring axes (Omnibus-Type)**
 - New variable font
 - Mastering for Variable fonts
 
